@@ -1,0 +1,7 @@
+{
+  "name": "Outside World - Particle Interactive Experience",
+  "description": "A real-time 3D particle system controlled by hand gestures, featuring morphing geometries like Chinese typography, organic shapes, and particle effects.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
